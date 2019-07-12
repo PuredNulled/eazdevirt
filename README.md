@@ -1,3 +1,6 @@
+#EAZFUSCATOR DEVIRT FOR NEWEST VERSION WIP
+
+
 eazdevirt
 =========
 
